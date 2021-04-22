@@ -15,7 +15,7 @@ section.hero::after {
     width: 100%;
     height: 100%;
     background-color: #F400D2;
-    background-blend-mode: lighten;
+    background-blend-mode: darken;
     opacity: .8;
 }
 section.hero h1,
