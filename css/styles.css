@@ -1,3 +1,9 @@
+head {
+	background-color: #F400D2;
+	background-blend-mode: multiply;
+}
+
+
 section.hero {  
 	width: 100%; 
 	height: 100vh;
