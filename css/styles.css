@@ -3,7 +3,7 @@ section.hero {
 	height: 100vh;
 	display: block;
 	position: relative;
-	background: url("../images/pokeball.jpg") center center;
+	background: url("../images/pokeball.png") center center;
 	background-size: cover;
 }
 
