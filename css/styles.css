@@ -6,8 +6,8 @@ section.hero {
 	background-size: cover;
 }
 
-.banner::after {
-    content: ""; // ::before and ::after both require content
+section.hero::after {
+    content: ""; 
     position: absolute;
     top: 0;
     left: 0;
