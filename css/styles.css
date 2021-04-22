@@ -1,4 +1,4 @@
-section.hero::after {  
+section.hero {  
 	content: "";
 	position: absolute;
 	width: 100%; 
