@@ -18,7 +18,12 @@ section.gamestop iframe {
 	width: 50px
 	height 50px
 }
-section.games table {
+section.table table {
 	border: 3px solid #000;
 	width: 500px;
+}
+section.table table th,
+section.table table td {
+	padding: 10px;
+	border: 1px solid grey;
 }
