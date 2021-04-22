@@ -27,7 +27,7 @@ body {
 
 body{
 	background-color: #6F0A87;
-	background-blend-mode: hue;
+	background-blend-mode: multiply;
 }
 
 section.gamestop iframe {
