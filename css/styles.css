@@ -8,7 +8,6 @@ section.hero {
 }
 
 section.hero {
-	background-image: url(pokeball.jpg);
 	background-color: #F400D2;
 	background-blend-mode: multiply;
 }
