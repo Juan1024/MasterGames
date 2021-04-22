@@ -5,6 +5,9 @@ display: block;
 background: url("../images/pokeball.jpg") center center;
 background-size: cover;
 }
+section.hero h1 {  
+color: #FF8DEA
+}
 
 section.gamestop iframe {
 	border: 0;
