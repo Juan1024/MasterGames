@@ -24,14 +24,12 @@ section.directory table,th,td {
 	text-align: center;
 }
 
-li {
+ul{
+	background-color: #6F0A87;
+}
+	li {
   display: inline;
-}
-  a {
-  display: block;
-  padding: 8px;
-  background-color: #dddddd;
-}
+
 
 }
 
