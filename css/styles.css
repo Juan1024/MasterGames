@@ -26,6 +26,7 @@ section.directory table,th,td {
 
 ul{
 	background-color: #6F0A87;
+	display: block;
 }
 	li {
   display: inline;
