@@ -62,3 +62,10 @@ section.information {
 	color: #F400D2;
     text-align: center;
     }
+
+footer.ul,li, a:hover {
+	padding: 1rem 3rem;
+	color: #AE11CE;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
