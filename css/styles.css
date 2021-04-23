@@ -37,6 +37,7 @@ ul, li, a:hover  {
 	color: #AE11CE;
 	text-transform: uppercase;
 	text-decoration: underline;
+	text-align: center;
 
 }
 body {  
@@ -68,4 +69,5 @@ footer.ul,li, a:hover {
 	color: #AE11CE;
 	text-transform: uppercase;
 	text-decoration: underline;
+	text-align: center;
 }
