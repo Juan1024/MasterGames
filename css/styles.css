@@ -32,7 +32,7 @@ ul {
 	list-style: none;
 	display: flex;
 }
-ul li a {
+ul, li, a {
 	padding: 1rem 3rem;
 	color: #AE11CE;
 	text-transform: uppercase;
@@ -58,7 +58,7 @@ section.gamestop iframe {
 	height 50px
 }
 
-section.information form,label,input {
+section.information h4 {
 	color: #F400D2;
 	display: inline-block;
     margin-left: auto;
