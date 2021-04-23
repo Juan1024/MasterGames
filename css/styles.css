@@ -7,7 +7,7 @@ header {
 	background-size: cover;
 }
 
-section.hero {
+header {
 	background-color: #F400D2;
 	background-blend-mode: multiply;
 }
