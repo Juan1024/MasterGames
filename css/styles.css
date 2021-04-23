@@ -59,8 +59,12 @@ section.gamestop iframe {
 }
 
 section.information {
-	color: #F400D2
-    margin-left: auto;
+	color: #F400D2;
+    
+}
+
+form {
+	margin-left: auto;
     margin-right: auto;
     text-align: left;
 }
