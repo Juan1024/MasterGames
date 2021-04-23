@@ -24,7 +24,8 @@ section.directory table {
 }
 section.directory table th,
 section.directory table td {
-	padding: 3px;
+	padding: 10px;
+	border: 1px solid: #FF8DEA;
 }
 
 body {  
