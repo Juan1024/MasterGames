@@ -58,7 +58,7 @@ section.gamestop iframe {
 	height 50px
 }
 
-section.information h4,form,label,input {
+section.information {
 	color: #F400D2;
 	display: inline-block;
     margin-left: auto;
@@ -66,6 +66,3 @@ section.information h4,form,label,input {
     text-align: center;
     }
 
-
-h4 {text-align: center;
-}
