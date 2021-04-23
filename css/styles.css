@@ -27,6 +27,13 @@ section.directory table,th,td {
 li {
   display: inline;
 }
+  a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+}
 
 body {  
 	width: 100%; 
