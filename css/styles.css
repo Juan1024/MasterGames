@@ -18,7 +18,7 @@ header p {
 }
 
 section.directory table,th,td {
-	border: 3px solid #6F0A87;
+	border: 3px solid ##FF8DEA;
 	width: 400px;
 }
 
