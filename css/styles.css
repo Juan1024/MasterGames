@@ -54,7 +54,8 @@ body{
 
 section.gamestop iframe {
 	border: 0;
-	margin: 0 auto;	
+	margin-left: auto;
+	margin-right: auto;
 
 }
 
