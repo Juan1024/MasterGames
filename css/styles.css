@@ -17,15 +17,9 @@ header p {
 	color: #FF8DEA;
 }
 
-section.directory table {
+section.directory table,th,td {
 	border: 3px solid #6F0A87;
 	width: 400px;
-
-}
-section.directory  th,
-section.directory  td {
-	padding: 15px;
-	border: 10px solid: #FF8DEA;
 }
 
 body {  
