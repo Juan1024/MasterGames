@@ -22,10 +22,10 @@ section.directory table {
 	width: 400px;
 
 }
-section.directory  tr,
+section.directory  th,
 section.directory  td {
-	padding: 10px;
-	border: 2px solid: #FF8DEA;
+	padding: 15px;
+	border: 10px solid: #FF8DEA;
 }
 
 body {  
