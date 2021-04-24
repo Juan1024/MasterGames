@@ -27,7 +27,7 @@ section.directory table,th,td {
 	margin-right: auto;
 }
 
-ul hover:{
+ul {
 	flex: 70%;
 	list-style: none;
 	display: flex;
@@ -58,7 +58,7 @@ section.gamestop {
 
 }
 
-section.information iframe {
+section.information iframe{
 	color: #F400D2;
     text-align: center;
     }
