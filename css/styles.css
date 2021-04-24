@@ -1,4 +1,4 @@
-header {  
+header.hero {  
 	width: 100%; 
 	height: 100vh;
 	display: block;
@@ -7,16 +7,20 @@ header {
 	background-size: cover;
 }
 
-header {
+header.hero {
 	background-color: #F400D2;
 	background-blend-mode: multiply;
 }
 
-header h1,
-header p,
-header a {  
+header.hero h1,
+header.hero p,
+header.hero a {  
 	color: #FF8DEA;
 }
+
+header a:hover {
+	text-decoration: underline;
+	color: #F400D2}
 
 section.directory table,th,td {
 	border: 3px solid #6F0A87;
@@ -42,6 +46,8 @@ header.hero nav ul li a {
 
 header.hero nav ul li a:hover {
 	text-decoration: underline;
+	color: #F400D2
+
 }
 body {  
 	width: 100%; 
@@ -76,4 +82,5 @@ footer nav ul li a {
 
 footer nav ul li a:hover {
 	text-decoration: underline;
+	color: #F400D2
 }
