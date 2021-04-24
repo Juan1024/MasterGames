@@ -22,9 +22,16 @@ header a:hover {
 	text-decoration: underline;
 	color: #F400D2}
 
-	header.her.btn {
+	header.hero.btn {
 		background: #6F0A87;
 		color:#FF8DEA;
+		font-size: 35px;
+		line-height: 50px;
+		padding: 1rem 3rem;
+		text-decoration:none;
+		border-radius: 40px
+
+
 	}
 
 section.directory table,th,td {
