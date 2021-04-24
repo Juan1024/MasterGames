@@ -27,7 +27,7 @@ section.directory table,th,td {
 	margin-right: auto;
 }
 
-ul {
+ul hover:{
 	flex: 70%;
 	list-style: none;
 	display: flex;
