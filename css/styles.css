@@ -25,16 +25,15 @@ header a:hover {
 section.btn {
 		background: #6F0A87;
 		color:#FF8DEA;
-		font-size: 35px;
+		font-size: 20px;
 		line-height: 10px;
 		padding: 1rem 3rem;
 		text-decoration:none;
-		border-radius: 40px;
+		border-radius: 35px;
 
 }
 
-section.btn {
-	border-width: 20px
+
 }
 
 section.directory table,th,td {
