@@ -32,11 +32,13 @@ ul {
 	list-style: none;
 	display: flex;
 }
-ul, li, a hover {
+ul 
+
+li, a {
 	padding: 1rem 3rem;
 	color: #AE11CE;
 	text-transform: uppercase;
-	text-decoration: underline;
+	text-decoration: none;
 
 }
 body {  
