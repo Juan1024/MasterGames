@@ -32,19 +32,16 @@ ul {
 	list-style: none;
 	display: flex;
 }
-ul,li, a {
+header.hero nav ul li a {
 	padding: 1rem 3rem;
-	color: #AE11CE;
+	color: #FF8DEA;
 	text-transform: uppercase;
 	text-decoration: none;
 
 }
 
-header.hero nav ul li a :hover {
-	padding: 1rem 3rem;
-	color: white;
-	text-transform: uppercase;
-	text-decoration: none;
+header.hero nav ul li a:hover {
+	text-decoration: underline;
 }
 body {  
 	width: 100%; 
@@ -69,3 +66,14 @@ section.information {
 	color: #F400D2;
     text-align: center;
     }
+
+footer.end nav ul li a {
+	padding: 1rem 3rem;
+	color: #FF8DEA;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+footer.end nav ul li a:hover {
+	text-decoration: underline;
+}
