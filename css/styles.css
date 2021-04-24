@@ -35,7 +35,6 @@ section.btn {
 
 }
 
-
 section.directory table,th,td {
 	border: 3px solid #6F0A87;
 	width: 50%;
@@ -97,4 +96,49 @@ footer nav ul li a {
 footer nav ul li a:hover {
 	text-decoration: underline;
 	color: #F400D2
+}
+
+@media screen and (max-width: 480px) {
+	header.hero { 
+	height:400px;  }
+
+	header.hero nav{
+		display: flex;
+	}
+	header.hero nav .logo img {
+		max-width: 100%;
+	}
+	header.hero nav ul {
+		margin: 1rem 0;
+		flex: none; 
+		padding:0;
+}
+
+	header.hero nav ul li a {
+	padding: 1rem 0.8rem;
+	font-size:10px;
+	font-weight: bold;
+
+}
+
+	header.hero h1,
+	header.hero p {
+		color: #FF8DEA;
+	}
+
+	header.hero h1 {
+		font-size: 40px
+		line-height: 10px;
+
+	}
+	section.btn {
+		font-size: 25px;
+		line-height:30px;
+		padding: 1rem 2rem;
+		border-radius: 22px;
+
+	}
+	section.gamestop {
+		height: 400px
+	}
 }
