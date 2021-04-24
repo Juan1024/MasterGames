@@ -29,14 +29,12 @@ section.btn {
 		line-height: 10px;
 		padding: 1rem 3rem;
 		text-decoration:none;
-		border-radius: 35px;
-		width: 100px
-		  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
-
-}
+		border-radius: 50px;
+		width: 100px;
 
 
 }
+
 
 section.directory table,th,td {
 	border: 3px solid #6F0A87;
