@@ -22,6 +22,11 @@ header a:hover {
 	text-decoration: underline;
 	color: #F400D2}
 
+	header.her.btn {
+		background: #6F0A87;
+		color:#FF8DEA;
+	}
+
 section.directory table,th,td {
 	border: 3px solid #6F0A87;
 	width: 50%;
