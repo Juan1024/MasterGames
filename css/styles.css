@@ -62,18 +62,17 @@ section.gamestop {
 
 }
 
-section.information {
-	color: #F400D2;
-    text-align: center;
-    }
-
-footer nav ul li a {
+footer.bottom nav ul li a {
 	padding: 1rem 3rem;
 	color: #FF8DEA;
 	text-transform: uppercase;
 	text-decoration: none;
 }
 
-footer nav ul li a:hover {
+footer.bottom nav ul li a:hover {
 	text-decoration: underline;
 }
+section.information {
+	color: #F400D2;
+    text-align: center;
+    }
