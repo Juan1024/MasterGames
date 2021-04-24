@@ -139,6 +139,9 @@ footer nav ul li a:hover {
 
 	}
 	section.gamestop {
-		height: 400px
+		width: 100%;
+	}
+	section.directory {
+		width: 100%;
 	}
 }
