@@ -32,14 +32,19 @@ ul {
 	list-style: none;
 	display: flex;
 }
-ul 
-
-li, a {
+ul,li, a {
 	padding: 1rem 3rem;
 	color: #AE11CE;
 	text-transform: uppercase;
 	text-decoration: none;
 
+}
+
+header.hero nav ul li a :hover {
+	padding: 1rem 3rem;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
 }
 body {  
 	width: 100%; 
